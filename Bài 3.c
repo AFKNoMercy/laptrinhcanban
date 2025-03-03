@@ -3,7 +3,7 @@
 int main()
 {
     int diem;
-
+    printf("---Kiem tra va xep loai diem---\n");
     printf("Nhap diem la so nguyen tu 1 den 10: ");
     scanf("%d",&diem);
 
