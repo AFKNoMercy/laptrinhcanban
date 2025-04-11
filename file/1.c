@@ -56,7 +56,7 @@ void TongHaiMaTran(int a[][COLS], int b[][COLS], int ketQua[][COLS], int r, int 
 
 int main()
 {
-    FILE *output = fopen("C:\\Users\\Cao Tien Minh\\Desktop\\example\\laptrinhcanban\\file\\output_1.txt", "w");
+    FILE *output = fopen("C:\\Users\\Cao Tien Minh\\Desktop\\laptrinhcanban\\file\\output_1.txt", "w");
     int a[ROWS][COLS], b[ROWS][COLS], tong[ROWS][COLS];
     int r1, c1, r2, c2;
 
