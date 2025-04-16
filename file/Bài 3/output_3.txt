@@ -1,0 +1,4 @@
+  STT   Ten Hang    Don gia   So luong Thanh tien
+    1       Sach          5        100        500
+    2        But          2        300        600
+                              Tong tien       1100
